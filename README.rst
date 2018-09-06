@@ -2,10 +2,10 @@
 PyPexels
 ########
 
-I have updated the code for python 3.5+
-An open source Python wrapper for the `Pexels REST API <https://www.pexels.com/api/>`_.
-The source code in Python 2.7 available on GitHub at `https://github.com/salvoventura/pypexels <https://github.com/salvoventura/pypexels>`_.
-The source code in Python 3.5+ available on Github at `https://github.com/AkankshaMalhotra/pypexels/ <https://github.com/AkankshaMalhotra/pypexels/>`_.
+I have updated the code for python 3.5+.<br>
+An open source Python wrapper for the `Pexels REST API <https://www.pexels.com/api/>`_.<br>
+The source code in Python 2.7 available on GitHub at `https://github.com/salvoventura/pypexels <https://github.com/salvoventura/pypexels>`_.<br>
+The source code in Python 3.5+ available on Github at `https://github.com/AkankshaMalhotra/pypexels/ <https://github.com/AkankshaMalhotra/pypexels/>`_.<br>
 
 .. note::  When using this library you still need to abide to Pexels Guidelines, which are explained on `Pexels API page <https://www.pexels.com/api/>`_
 
