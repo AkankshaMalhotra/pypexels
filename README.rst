@@ -1,7 +1,6 @@
 ########
 PyPexels
 ########
-|Latest Version| |Docs Build Status| |Build Status| |Code Coverage| |Code Climate| |Landscape Io| |Say Thanks|
 
 I have updated the code for python 3.5+
 An open source Python wrapper for the `Pexels REST API <https://www.pexels.com/api/>`_.
