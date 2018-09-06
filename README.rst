@@ -70,30 +70,3 @@ Version
 License
 #######
 PyPexels is released under the `MIT License <http://www.opensource.org/licenses/MIT>`_.
-
-
-.. |Build Status| image:: https://travis-ci.org/salvoventura/pypexels.svg?branch=master
-    :target: https://travis-ci.org/salvoventura/pypexels
-    :alt: Build Status
-
-.. |Docs Build Status| image:: https://readthedocs.org/projects/pypexels/badge/?version=latest
-    :target: http://pypexels.readthedocs.io/en/latest/?badge=latest
-    :alt: Documentation Status
-
-.. |Latest Version| image:: https://badge.fury.io/py/pypexels.svg
-    :target: https://badge.fury.io/py/pypexels
-
-.. |Code Coverage| image:: https://codecov.io/gh/salvoventura/pypexels/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/salvoventura/pypexels
-
-.. |Code Climate| image:: https://codeclimate.com/github/salvoventura/pypexels/badges/gpa.svg
-   :target: https://codeclimate.com/github/salvoventura/pypexels
-   :alt: Code Climate
-
-.. |Landscape Io| image:: https://landscape.io/github/salvoventura/pypexels/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/salvoventura/pypexels/master
-   :alt: Code Health
-
-.. |Say Thanks| image:: https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg
-   :target: https://saythanks.io/to/AkankshaMalhotra/
-   :alt: Say Thanks
