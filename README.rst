@@ -6,8 +6,10 @@ I have updated the code for python 3.5+.
 
 An open source Python wrapper for the `Pexels REST API <https://www.pexels.com/api/>`_.
 
-The source code in Python 2.7 available on GitHub at `https://github.com/salvoventura/pypexels <https://github.com/salvoventura/pypexels>`_. <br>
-The source code in Python 3.5+ available on Github at `https://github.com/AkankshaMalhotra/pypexels/ <https://github.com/AkankshaMalhotra/pypexels/>`_.<br>
+The source code in Python 2.7 available on GitHub at `https://github.com/salvoventura/pypexels <https://github.com/salvoventura/pypexels>`_. 
+
+The source code in Python 3.5+ available on Github at `https://github.com/AkankshaMalhotra/pypexels/ <https://github.com/AkankshaMalhotra/pypexels/>`_.
+
 
 .. note::  When using this library you still need to abide to Pexels Guidelines, which are explained on `Pexels API page <https://www.pexels.com/api/>`_
 
@@ -15,10 +17,7 @@ The source code in Python 3.5+ available on Github at `https://github.com/Akanks
 ############
 Installation
 ############
-``PyPexels`` is available on `PyPI <https://pypi.python.org/pypi>`_ and thus can be installed with ``pip`` on most platforms.
-::
 
-    $ pip install pypexels
 
 ############
 Dependencies
@@ -54,17 +53,6 @@ simplified. The code below will iterate through all popular images, and print at
 Documentation
 #############
 Documentation is published on `ReadTheDocs <http://pypexels.readthedocs.io/>`_.
-
-
-#######
-Version
-#######
-**PyPexels v1.0.0b1 (beta, v1)**
-
-    First release with wrappers around the two Pexels API for `search` and `popular`.
-
-    Note that using this library you still need to abide to Pexels Guidelines, which
-    are explained on `Pexels API page <https://www.pexels.com/api/>`_
 
 
 #######
