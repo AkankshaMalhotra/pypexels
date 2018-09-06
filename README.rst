@@ -3,8 +3,10 @@ PyPexels
 ########
 |Latest Version| |Docs Build Status| |Build Status| |Code Coverage| |Code Climate| |Landscape Io| |Say Thanks|
 
+I have updated the code for python 3.5+
 An open source Python wrapper for the `Pexels REST API <https://www.pexels.com/api/>`_.
-The source code is available on GitHub at `https://github.com/salvoventura/pypexels <https://github.com/salvoventura/pypexels>`_.
+The source code in Python 2.7 available on GitHub at `https://github.com/salvoventura/pypexels <https://github.com/salvoventura/pypexels>`_.
+The source code in Python 3.5+ available on Github at `https://github.com/AkankshaMalhotra/pypexels/ <https://github.com/AkankshaMalhotra/pypexels/>`_.
 
 .. note::  When using this library you still need to abide to Pexels Guidelines, which are explained on `Pexels API page <https://www.pexels.com/api/>`_
 
@@ -93,5 +95,5 @@ PyPexels is released under the `MIT License <http://www.opensource.org/licenses/
    :alt: Code Health
 
 .. |Say Thanks| image:: https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg
-   :target: https://saythanks.io/to/salvoventura
+   :target: https://saythanks.io/to/AkankshaMalhotra/
    :alt: Say Thanks
